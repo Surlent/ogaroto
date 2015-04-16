@@ -1,0 +1,8 @@
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\Content\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,119 @@
+Content\Codons\codon1.xnb
+Content\Codons\codon2.xnb
+Content\Codons\codon3.xnb
+Content\Codons\codon4.xnb
+Content\Codons\codon5.xnb
+Content\Codons\codon6.xnb
+Content\Codons\codon7.xnb
+Content\Aminos\amino1.xnb
+Content\Interface\Misc\barraAmino.xnb
+Content\Obstaculos\Ameba.xnb
+Content\Obstaculos\Enzima.xnb
+Content\Fundos\score.xnb
+Content\Aminos\amino2.xnb
+Content\Aminos\amino3.xnb
+Content\Aminos\amino4.xnb
+Content\Aminos\amino5.xnb
+Content\Aminos\amino6.xnb
+Content\Aminos\amino7.xnb
+Content\Interface\Buttons\buttonMenor.xnb
+Content\Interface\Buttons\buttonMenorApertado.xnb
+Content\Fundos\pause.xnb
+Content\Interface\Buttons\buttonMaior.xnb
+Content\Interface\Buttons\buttonMaiorApertado.xnb
+Content\Fundos\garoto.xnb
+Content\Fundos\faseLegs.xnb
+Content\Fundos\faseTrunk.xnb
+Content\Interface\Misc\quadroMensagem.xnb
+Content\Aminos\amino1sem.xnb
+Content\Aminos\amino2sem.xnb
+Content\Aminos\amino3sem.xnb
+Content\Aminos\amino4sem.xnb
+Content\Aminos\amino5sem.xnb
+Content\Aminos\amino6sem.xnb
+Content\Aminos\amino7sem.xnb
+Content\Fundos\faseArms.xnb
+Content\Fundos\faseHands.xnb
+Content\Fundos\faseHead.xnb
+Content\Fundos\faseEars.xnb
+Content\Obstaculos\Radion.xnb
+Content\Obstaculos\Parasita.xnb
+Content\Obstaculos\Virus.xnb
+Content\Fundos\faseFeet.xnb
+Content\Partes\leftArm1.xnb
+Content\Partes\leftEar1.xnb
+Content\Partes\leftHand1.xnb
+Content\Partes\mouth1.xnb
+Content\Partes\nose1.xnb
+Content\Partes\rightArm1.xnb
+Content\Partes\rightEar1.xnb
+Content\Partes\rightHand1.xnb
+Content\Partes\trunk1.xnb
+Content\Partes\head1.xnb
+Content\Partes\leftLeg1.xnb
+Content\Partes\rightLeg1.xnb
+Content\Partes\leftFoot1.xnb
+Content\Partes\rightFoot1.xnb
+Content\Partes\eyes1.xnb
+Content\Fundos\telaChangeState.xnb
+Content\Partes\eyes0.xnb
+Content\Partes\head0.xnb
+Content\Partes\leftArm0.xnb
+Content\Partes\leftEar0.xnb
+Content\Partes\leftFoot0.xnb
+Content\Partes\leftHand0.xnb
+Content\Partes\leftLeg0.xnb
+Content\Partes\mouth0.xnb
+Content\Partes\nose0.xnb
+Content\Partes\rightArm0.xnb
+Content\Partes\rightEar0.xnb
+Content\Partes\rightFoot0.xnb
+Content\Partes\rightHand0.xnb
+Content\Partes\rightLeg0.xnb
+Content\Partes\trunk0.xnb
+Content\Interface\Misc\nuvem.xnb
+Content\Interface\Misc\quadro.xnb
+Content\Interferons\FeixeATP.xnb
+Content\Interferons\Imunizador.xnb
+Content\Interferons\Lisossomo.xnb
+Content\Interferons\Pilula.xnb
+Content\Interferons\Ressonante.xnb
+Content\Interface\Misc\barraInterf.xnb
+Content\Interface\Misc\interf0.xnb
+Content\Interface\Misc\interf1.xnb
+Content\Interface\Misc\interf2.xnb
+Content\Interface\Misc\interf3.xnb
+Content\Interface\Misc\interf4.xnb
+Content\Fontes\Fonte1.xnb
+Content\Fontes\Fonte2.xnb
+Content\Sons\Musicas\Suspense.xnb
+Content\Sons\Musicas\Bolhas.xnb
+Content\Sons\Musicas\Tempestade.xnb
+Content\Sons\Musicas\Sineta.xnb
+Content\Sons\Efeitos Sonoros\somAmeba.xnb
+Content\Sons\Efeitos Sonoros\somEnzima.xnb
+Content\Sons\Efeitos Sonoros\somEncaixe1.xnb
+Content\Sons\Efeitos Sonoros\somEncaixe2.xnb
+Content\Sons\Efeitos Sonoros\somEncaixe3.xnb
+Content\Sons\Efeitos Sonoros\somEncaixe4.xnb
+Content\Sons\Efeitos Sonoros\somEncaixe5.xnb
+Content\Sons\Efeitos Sonoros\somEncaixe6.xnb
+Content\Sons\Efeitos Sonoros\somEncaixe7.xnb
+Content\Sons\Efeitos Sonoros\somMensagem.xnb
+Content\Sons\Efeitos Sonoros\somParasita.xnb
+Content\Sons\Efeitos Sonoros\somRadion.xnb
+Content\Sons\Efeitos Sonoros\somVirus.xnb
+Content\Sons\Musicas\CustardPie.xnb
+Content\Sons\Musicas\MobyDick.xnb
+Content\Sons\Musicas\Money.xnb
+Content\Sons\Musicas\TheOcean.xnb
+Content\Sons\Musicas\WholeLottaLove.xnb
+Content\Sons\Musicas\Suspense.wma
+Content\Sons\Musicas\Bolhas.wma
+Content\Sons\Musicas\Tempestade.wma
+Content\Sons\Musicas\Sineta.wma
+Content\Sons\Musicas\CustardPie.wma
+Content\Sons\Musicas\MobyDick.wma
+Content\Sons\Musicas\Money.wma
+Content\Sons\Musicas\TheOcean.wma
+Content\Sons\Musicas\WholeLottaLove.wma

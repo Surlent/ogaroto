@@ -1,0 +1,1044 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Codons\codon1.png</Source>
+      <Name>Codons\codon1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon1.xnb</Output>
+      <Time>2009-10-18T21:45:48-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Codons\codon2.png</Source>
+      <Name>Codons\codon2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon2.xnb</Output>
+      <Time>2009-10-17T20:09:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Codons\codon3.png</Source>
+      <Name>Codons\codon3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon3.xnb</Output>
+      <Time>2009-10-17T18:53:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Codons\codon4.png</Source>
+      <Name>Codons\codon4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon4.xnb</Output>
+      <Time>2009-10-17T19:03:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Codons\codon5.png</Source>
+      <Name>Codons\codon5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon5.xnb</Output>
+      <Time>2009-10-17T19:12:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Codons\codon6.png</Source>
+      <Name>Codons\codon6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon6.xnb</Output>
+      <Time>2009-10-17T19:25:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Codons\codon7.png</Source>
+      <Name>Codons\codon7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon7.xnb</Output>
+      <Time>2009-10-17T19:36:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino1.png</Source>
+      <Name>Aminos\amino1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino1.xnb</Output>
+      <Time>2009-10-16T23:03:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Misc\barraAmino.png</Source>
+      <Name>Interface\Misc\barraAmino</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\barraAmino.xnb</Output>
+      <Time>2009-10-16T23:14:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Obstaculos\Ameba.png</Source>
+      <Name>Obstaculos\Ameba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Obstaculos\Ameba.xnb</Output>
+      <Time>2009-10-08T20:08:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Obstaculos\Enzima.png</Source>
+      <Name>Obstaculos\Enzima</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Obstaculos\Enzima.xnb</Output>
+      <Time>2009-10-09T22:52:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundos\score.jpg</Source>
+      <Name>Fundos\score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\score.xnb</Output>
+      <Time>2009-10-16T22:15:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino2.png</Source>
+      <Name>Aminos\amino2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino2.xnb</Output>
+      <Time>2009-10-17T20:18:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino3.png</Source>
+      <Name>Aminos\amino3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino3.xnb</Output>
+      <Time>2009-10-17T18:53:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino4.png</Source>
+      <Name>Aminos\amino4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino4.xnb</Output>
+      <Time>2009-10-17T19:03:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino5.png</Source>
+      <Name>Aminos\amino5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino5.xnb</Output>
+      <Time>2009-10-17T19:12:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino6.png</Source>
+      <Name>Aminos\amino6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino6.xnb</Output>
+      <Time>2009-10-17T19:25:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino7.png</Source>
+      <Name>Aminos\amino7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino7.xnb</Output>
+      <Time>2009-10-17T19:36:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Buttons\buttonMenor.png</Source>
+      <Name>Interface\Buttons\buttonMenor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenor.xnb</Output>
+      <Time>2009-10-17T17:56:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Buttons\buttonMenorApertado.png</Source>
+      <Name>Interface\Buttons\buttonMenorApertado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenorApertado.xnb</Output>
+      <Time>2009-10-17T17:57:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundos\pause.jpg</Source>
+      <Name>Fundos\pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\pause.xnb</Output>
+      <Time>2009-10-16T21:01:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Buttons\buttonMaior.png</Source>
+      <Name>Interface\Buttons\buttonMaior</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaior.xnb</Output>
+      <Time>2009-10-17T17:45:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Buttons\buttonMaiorApertado.png</Source>
+      <Name>Interface\Buttons\buttonMaiorApertado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaiorApertado.xnb</Output>
+      <Time>2008-08-18T02:40:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundos\garoto.jpg</Source>
+      <Name>Fundos\garoto</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\garoto.xnb</Output>
+      <Time>2009-10-16T22:37:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundos\faseLegs.jpg</Source>
+      <Name>Fundos\faseLegs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseLegs.xnb</Output>
+      <Time>2009-10-16T22:23:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundos\faseTrunk.jpg</Source>
+      <Name>Fundos\faseTrunk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseTrunk.xnb</Output>
+      <Time>2009-10-16T22:49:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Misc\quadroMensagem.png</Source>
+      <Name>Interface\Misc\quadroMensagem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\quadroMensagem.xnb</Output>
+      <Time>2009-10-17T01:02:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino1sem.png</Source>
+      <Name>Aminos\amino1sem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino1sem.xnb</Output>
+      <Time>2009-10-16T23:04:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino2sem.png</Source>
+      <Name>Aminos\amino2sem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino2sem.xnb</Output>
+      <Time>2009-10-17T20:08:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino3sem.png</Source>
+      <Name>Aminos\amino3sem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino3sem.xnb</Output>
+      <Time>2009-10-16T00:12:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino4sem.png</Source>
+      <Name>Aminos\amino4sem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino4sem.xnb</Output>
+      <Time>2009-10-16T00:16:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino5sem.png</Source>
+      <Name>Aminos\amino5sem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino5sem.xnb</Output>
+      <Time>2009-10-16T00:19:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino6sem.png</Source>
+      <Name>Aminos\amino6sem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino6sem.xnb</Output>
+      <Time>2009-10-16T00:45:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Aminos\amino7sem.png</Source>
+      <Name>Aminos\amino7sem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino7sem.xnb</Output>
+      <Time>2009-10-16T00:24:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundos\faseArms.jpg</Source>
+      <Name>Fundos\faseArms</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseArms.xnb</Output>
+      <Time>2009-10-15T21:46:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundos\faseHands.jpg</Source>
+      <Name>Fundos\faseHands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseHands.xnb</Output>
+      <Time>2009-10-15T21:46:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundos\faseHead.jpg</Source>
+      <Name>Fundos\faseHead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseHead.xnb</Output>
+      <Time>2009-10-15T21:46:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundos\faseEars.jpg</Source>
+      <Name>Fundos\faseEars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseEars.xnb</Output>
+      <Time>2009-10-15T21:46:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Obstaculos\Radion.png</Source>
+      <Name>Obstaculos\Radion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Obstaculos\Radion.xnb</Output>
+      <Time>2009-10-17T21:21:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Obstaculos\Parasita.png</Source>
+      <Name>Obstaculos\Parasita</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Obstaculos\Parasita.xnb</Output>
+      <Time>2009-10-18T22:19:36-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Obstaculos\Virus.png</Source>
+      <Name>Obstaculos\Virus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Obstaculos\Virus.xnb</Output>
+      <Time>2009-10-09T22:30:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundos\faseFeet.jpg</Source>
+      <Name>Fundos\faseFeet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseFeet.xnb</Output>
+      <Time>2009-10-16T22:28:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\leftArm1.png</Source>
+      <Name>Partes\leftArm1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftArm1.xnb</Output>
+      <Time>2009-11-04T23:09:53.5-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\leftEar1.png</Source>
+      <Name>Partes\leftEar1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftEar1.xnb</Output>
+      <Time>2009-11-04T23:13:07.65625-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\leftHand1.png</Source>
+      <Name>Partes\leftHand1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftHand1.xnb</Output>
+      <Time>2009-11-04T23:13:35.21875-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\mouth1.PNG</Source>
+      <Name>Partes\mouth1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\mouth1.xnb</Output>
+      <Time>2009-11-04T23:10:16.1875-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\nose1.PNG</Source>
+      <Name>Partes\nose1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\nose1.xnb</Output>
+      <Time>2009-11-04T23:12:01.734375-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\rightArm1.png</Source>
+      <Name>Partes\rightArm1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightArm1.xnb</Output>
+      <Time>2009-11-04T23:09:39.234375-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\rightEar1.png</Source>
+      <Name>Partes\rightEar1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightEar1.xnb</Output>
+      <Time>2009-11-04T23:12:47.140625-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\rightHand1.png</Source>
+      <Name>Partes\rightHand1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightHand1.xnb</Output>
+      <Time>2009-11-04T23:11:33.4375-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\trunk1.png</Source>
+      <Name>Partes\trunk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\trunk1.xnb</Output>
+      <Time>2009-11-04T23:17:17.984375-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\head1.PNG</Source>
+      <Name>Partes\head1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\head1.xnb</Output>
+      <Time>2009-11-04T23:18:32.703125-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\leftLeg1.png</Source>
+      <Name>Partes\leftLeg1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftLeg1.xnb</Output>
+      <Time>2009-11-04T23:16:47.453125-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\rightLeg1.png</Source>
+      <Name>Partes\rightLeg1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightLeg1.xnb</Output>
+      <Time>2009-11-04T23:15:37.015625-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\leftFoot1.png</Source>
+      <Name>Partes\leftFoot1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftFoot1.xnb</Output>
+      <Time>2009-11-04T23:14:36.8125-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\rightFoot1.png</Source>
+      <Name>Partes\rightFoot1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightFoot1.xnb</Output>
+      <Time>2009-11-04T23:14:23.125-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\eyes1.PNG</Source>
+      <Name>Partes\eyes1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\eyes1.xnb</Output>
+      <Time>2009-11-04T23:12:20.125-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundos\telaChangeState.png</Source>
+      <Name>Fundos\telaChangeState</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\telaChangeState.xnb</Output>
+      <Time>2009-11-01T21:29:44-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\eyes0.png</Source>
+      <Name>Partes\eyes0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\eyes0.xnb</Output>
+      <Time>2009-11-05T09:11:16-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\head0.png</Source>
+      <Name>Partes\head0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\head0.xnb</Output>
+      <Time>2009-11-05T09:08:14-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\leftArm0.png</Source>
+      <Name>Partes\leftArm0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftArm0.xnb</Output>
+      <Time>2009-11-05T18:57:48-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\leftEar0.png</Source>
+      <Name>Partes\leftEar0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftEar0.xnb</Output>
+      <Time>2009-11-05T19:12:38-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\leftFoot0.png</Source>
+      <Name>Partes\leftFoot0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftFoot0.xnb</Output>
+      <Time>2009-11-05T19:07:46-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\leftHand0.png</Source>
+      <Name>Partes\leftHand0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftHand0.xnb</Output>
+      <Time>2009-11-05T19:06:34-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\leftLeg0.png</Source>
+      <Name>Partes\leftLeg0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftLeg0.xnb</Output>
+      <Time>2009-11-05T19:10:00-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\mouth0.png</Source>
+      <Name>Partes\mouth0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\mouth0.xnb</Output>
+      <Time>2009-11-05T09:07:10-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\nose0.png</Source>
+      <Name>Partes\nose0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\nose0.xnb</Output>
+      <Time>2009-11-05T09:11:08-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\rightArm0.png</Source>
+      <Name>Partes\rightArm0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightArm0.xnb</Output>
+      <Time>2009-11-05T09:07:20-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\rightEar0.png</Source>
+      <Name>Partes\rightEar0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightEar0.xnb</Output>
+      <Time>2009-11-05T09:11:26-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\rightFoot0.png</Source>
+      <Name>Partes\rightFoot0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightFoot0.xnb</Output>
+      <Time>2009-11-05T09:04:54-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\rightHand0.png</Source>
+      <Name>Partes\rightHand0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightHand0.xnb</Output>
+      <Time>2009-11-05T09:09:38-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\rightLeg0.png</Source>
+      <Name>Partes\rightLeg0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightLeg0.xnb</Output>
+      <Time>2009-11-05T19:09:44-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Partes\trunk0.png</Source>
+      <Name>Partes\trunk0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\trunk0.xnb</Output>
+      <Time>2009-11-05T09:06:12-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Misc\nuvem.png</Source>
+      <Name>Interface\Misc\nuvem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\nuvem.xnb</Output>
+      <Time>2009-10-30T21:33:12-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Misc\quadro.png</Source>
+      <Name>Interface\Misc\quadro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\quadro.xnb</Output>
+      <Time>2009-11-02T17:57:14-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interferons\FeixeATP.png</Source>
+      <Name>Interferons\FeixeATP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interferons\FeixeATP.xnb</Output>
+      <Time>2009-10-18T02:16:59.140625-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interferons\Imunizador.PNG</Source>
+      <Name>Interferons\Imunizador</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interferons\Imunizador.xnb</Output>
+      <Time>2009-11-06T02:00:53.78125-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interferons\Lisossomo.PNG</Source>
+      <Name>Interferons\Lisossomo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interferons\Lisossomo.xnb</Output>
+      <Time>2009-11-05T22:26:16.234375-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interferons\Pilula.png</Source>
+      <Name>Interferons\Pilula</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interferons\Pilula.xnb</Output>
+      <Time>2009-11-06T02:07:34.71875-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interferons\Ressonante.PNG</Source>
+      <Name>Interferons\Ressonante</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interferons\Ressonante.xnb</Output>
+      <Time>2009-10-05T19:19:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Misc\barraInterf.png</Source>
+      <Name>Interface\Misc\barraInterf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\barraInterf.xnb</Output>
+      <Time>2009-11-05T22:59:18.4375-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Misc\interf0.png</Source>
+      <Name>Interface\Misc\interf0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf0.xnb</Output>
+      <Time>2009-11-06T00:09:36.0625-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Misc\interf1.png</Source>
+      <Name>Interface\Misc\interf1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf1.xnb</Output>
+      <Time>2009-11-06T00:10:35.84375-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Misc\interf2.png</Source>
+      <Name>Interface\Misc\interf2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf2.xnb</Output>
+      <Time>2009-11-06T00:10:14.078125-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Misc\interf3.png</Source>
+      <Name>Interface\Misc\interf3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf3.xnb</Output>
+      <Time>2009-11-06T00:11:07.4375-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interface\Misc\interf4.PNG</Source>
+      <Name>Interface\Misc\interf4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf4.xnb</Output>
+      <Time>2009-11-06T00:11:25.765625-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fontes\Fonte1.spritefont</Source>
+      <Name>Fontes\Fonte1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fontes\Fonte1.xnb</Output>
+      <Time>2009-10-16T21:23:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fontes\Fonte2.spritefont</Source>
+      <Name>Fontes\Fonte2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fontes\Fonte2.xnb</Output>
+      <Time>2009-10-15T22:57:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Musicas\Suspense.mp3</Source>
+      <Name>Sons\Musicas\Suspense</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.xnb</Output>
+      <Extra>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.wma</Extra>
+      <Time>2009-09-27T22:56:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Musicas\Bolhas.mp3</Source>
+      <Name>Sons\Musicas\Bolhas</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.xnb</Output>
+      <Extra>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.wma</Extra>
+      <Time>2009-10-17T15:28:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Musicas\Tempestade.mp3</Source>
+      <Name>Sons\Musicas\Tempestade</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.xnb</Output>
+      <Extra>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.wma</Extra>
+      <Time>2009-10-17T15:31:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Musicas\Sineta.mp3</Source>
+      <Name>Sons\Musicas\Sineta</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.xnb</Output>
+      <Extra>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.wma</Extra>
+      <Time>2009-10-18T22:30:32-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somAmeba.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somAmeba</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somAmeba.xnb</Output>
+      <Time>2009-10-12T18:23:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somEnzima.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somEnzima</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEnzima.xnb</Output>
+      <Time>2009-10-12T18:26:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somEncaixe1.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somEncaixe1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe1.xnb</Output>
+      <Time>2009-11-05T18:47:59.53125-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somEncaixe2.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somEncaixe2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe2.xnb</Output>
+      <Time>2009-11-05T18:48:10.078125-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somEncaixe3.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somEncaixe3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe3.xnb</Output>
+      <Time>2009-11-05T18:49:38.34375-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somEncaixe4.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somEncaixe4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe4.xnb</Output>
+      <Time>2009-11-05T18:49:46.03125-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somEncaixe5.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somEncaixe5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe5.xnb</Output>
+      <Time>2009-11-05T18:49:55.203125-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somEncaixe6.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somEncaixe6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe6.xnb</Output>
+      <Time>2009-11-05T18:50:03.421875-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somEncaixe7.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somEncaixe7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe7.xnb</Output>
+      <Time>2009-11-05T18:50:13.90625-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somMensagem.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somMensagem</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somMensagem.xnb</Output>
+      <Time>2008-05-19T08:32:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somParasita.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somParasita</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somParasita.xnb</Output>
+      <Time>2009-10-18T22:41:08-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somRadion.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somRadion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somRadion.xnb</Output>
+      <Time>2009-10-18T22:41:30-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Efeitos Sonoros\somVirus.wav</Source>
+      <Name>Sons\Efeitos Sonoros\somVirus</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somVirus.xnb</Output>
+      <Time>2008-05-19T08:32:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Musicas\CustardPie.mp3</Source>
+      <Name>Sons\Musicas\CustardPie</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\CustardPie.xnb</Output>
+      <Extra>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\CustardPie.wma</Extra>
+      <Time>2009-11-06T10:26:44-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Musicas\MobyDick.mp3</Source>
+      <Name>Sons\Musicas\MobyDick</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\MobyDick.xnb</Output>
+      <Extra>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\MobyDick.wma</Extra>
+      <Time>2009-11-03T21:50:50-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Musicas\Money.mp3</Source>
+      <Name>Sons\Musicas\Money</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Money.xnb</Output>
+      <Extra>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Money.wma</Extra>
+      <Time>2009-11-03T22:15:54-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Musicas\TheOcean.mp3</Source>
+      <Name>Sons\Musicas\TheOcean</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\TheOcean.xnb</Output>
+      <Extra>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\TheOcean.wma</Extra>
+      <Time>2009-11-03T21:53:52-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Musicas\WholeLottaLove.mp3</Source>
+      <Name>Sons\Musicas\WholeLottaLove</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\WholeLottaLove.xnb</Output>
+      <Extra>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\WholeLottaLove.wma</Extra>
+      <Time>2009-11-03T21:48:00-02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-08-20T20:23:20.9375-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

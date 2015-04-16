@@ -1,0 +1,662 @@
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\obj\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\obj\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Fundos\fase1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Obstaculos\VirusPadrao.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Fundos\garoto.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Fundos\fase2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Aminos\amino1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Interface\barraAmino.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Fundos\telainicial.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Obstaculos\Ameba.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Fundos\fase1.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Obstaculos\VirusPadrao.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon1.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon2.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon3.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon4.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon5.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon6.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Codons\codon7.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Aminos\amino1.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Interface\barraAmino.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Fundos\telainicial.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Fundos\garoto.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Fundos\fase2.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Obstaculos\Ameba.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\Content\Fontes\Fonte.xnb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\bin\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\obj\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Administrador\Desktop\O Garoto\OGaroto\OGaroto\obj\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Obstaculos\Enzima.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Fundos\score.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Fontes\Fonte1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Fontes\Fonte2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Sons\Suspense.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Sons\Suspense.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Sons\somAmeba.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Sons\somEnzima.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Sons\somEncaixe1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Sons\somEncaixe2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Sons\somEncaixe3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Sons\somEncaixe4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Sons\somEncaixe5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Sons\somEncaixe6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto\OGaroto\bin\x86\Debug\Content\Sons\somEncaixe7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Fundos\fase1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Codons\codon1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Codons\codon2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Codons\codon3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Codons\codon4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Codons\codon5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Codons\codon6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Codons\codon7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Fundos\garoto.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Fundos\fase2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Obstaculos\Ameba.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Obstaculos\Enzima.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Fundos\score.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Fontes\Fonte1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Fontes\Fonte2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Fundos\pause.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\obj\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\obj\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenor.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenorApertado.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaior.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaiorApertado.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Fundos\fase3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Interface\Misc\barraAmino.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Interface\Misc\quadroMensagem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino1sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino2sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino3sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino4sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino5sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino6sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Aminos\amino7sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somAmeba.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEnzima.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somMensagem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Fundos\fase4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Fundos\fase5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Fundos\fase6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Fundos\fase7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Obstaculos\Radion.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Obstaculos\Parasita.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Obstaculos\Virus.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somParasita.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somRadion.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.5\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Codons\codon1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Codons\codon2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Codons\codon3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Codons\codon4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Codons\codon5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Codons\codon6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Codons\codon7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Interface\Misc\barraAmino.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Obstaculos\Ameba.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Obstaculos\Enzima.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Fundos\score.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenor.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenorApertado.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Fundos\pause.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaior.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaiorApertado.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Fundos\garoto.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Interface\Misc\quadroMensagem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino1sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino2sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino3sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino4sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino5sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino6sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Aminos\amino7sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Obstaculos\Radion.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Obstaculos\Parasita.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Obstaculos\Virus.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Fontes\Fonte1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Fontes\Fonte2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somAmeba.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEnzima.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somMensagem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somParasita.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somRadion.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\obj\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\obj\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somVirus.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\leftArm1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\leftEar1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\leftHand1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\mouth1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\nose1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\rightArm1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\rightEar1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\rightHand1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\trunk1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\head1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\leftLeg1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\rightLeg1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\leftFoot1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\rightFoot1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Partes\eyes1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Fundos\fasetrunk.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Fundos\fasehead.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Fundos\faseArms.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Fundos\faseHands.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Fundos\faseEars.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Fundos\faseFeet.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.7\OGaroto\bin\x86\Debug\Content\Fundos\faseLegs.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Codons\codon1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Codons\codon2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Codons\codon3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Codons\codon4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Codons\codon5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Codons\codon6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Codons\codon7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Interface\Misc\barraAmino.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Obstaculos\Ameba.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Obstaculos\Enzima.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fundos\score.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenor.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenorApertado.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fundos\pause.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaior.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaiorApertado.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fundos\garoto.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fundos\faseLegs.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fundos\faseTrunk.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Interface\Misc\quadroMensagem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino1sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino2sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino3sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino4sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino5sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino6sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Aminos\amino7sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fundos\faseArms.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fundos\faseHands.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fundos\faseHead.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fundos\faseEars.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Obstaculos\Radion.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Obstaculos\Parasita.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Obstaculos\Virus.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fundos\faseFeet.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\leftArm1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\leftEar1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\leftHand1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\mouth1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\nose1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\rightArm1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\rightEar1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\rightHand1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\trunk1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\head1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\leftLeg1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\rightLeg1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\leftFoot1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\rightFoot1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\eyes1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fontes\Fonte1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fontes\Fonte2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somAmeba.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEnzima.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somMensagem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somParasita.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somRadion.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somVirus.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\obj\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\obj\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Fundos\telaChangeState.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\eyes0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\head0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\leftArm0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\leftEar0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\leftFoot0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\leftHand0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\leftLeg0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\mouth0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\nose0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\rightArm0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\rightEar0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\rightFoot0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\rightHand0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\rightLeg0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Partes\trunk0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Interface\Misc\nuvem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.8\OGaroto\bin\x86\Debug\Content\Interface\Misc\quadro.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Codons\codon1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Codons\codon2.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Codons\codon3.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Codons\codon4.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Codons\codon5.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Codons\codon6.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Codons\codon7.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Interface\Misc\barraAmino.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Obstaculos\Ameba.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Obstaculos\Enzima.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fundos\score.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino2.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino3.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino4.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino5.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino6.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino7.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenor.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenorApertado.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fundos\pause.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaior.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaiorApertado.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fundos\garoto.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fundos\faseLegs.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fundos\faseTrunk.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Interface\Misc\quadroMensagem.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino1sem.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino2sem.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino3sem.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino4sem.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino5sem.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino6sem.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Aminos\amino7sem.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fundos\faseArms.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fundos\faseHands.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fundos\faseHead.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fundos\faseEars.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Obstaculos\Radion.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Obstaculos\Parasita.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Obstaculos\Virus.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fundos\faseFeet.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\leftArm1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\leftEar1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\leftHand1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\mouth1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\nose1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\rightArm1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\rightEar1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\rightHand1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\trunk1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\head1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\leftLeg1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\rightLeg1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\leftFoot1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\rightFoot1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\eyes1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fundos\telaChangeState.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\eyes0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\head0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\leftArm0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\leftEar0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\leftFoot0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\leftHand0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\leftLeg0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\mouth0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\nose0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\rightArm0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\rightEar0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\rightFoot0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\rightHand0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\rightLeg0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Partes\trunk0.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Interface\Misc\nuvem.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Interface\Misc\quadro.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fontes\Fonte1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Fontes\Fonte2.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somAmeba.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEnzima.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe1.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe2.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe3.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe4.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe5.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe6.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe7.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somMensagem.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somParasita.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somRadion.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somVirus.xnb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.wma
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.wma
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.wma
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.wma
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\bin\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\obj\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\OGaroto0.9\OGaroto\obj\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Codons\codon1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Codons\codon2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Codons\codon3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Codons\codon4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Codons\codon5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Codons\codon6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Codons\codon7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Misc\barraAmino.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Obstaculos\Ameba.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Obstaculos\Enzima.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fundos\score.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenor.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenorApertado.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fundos\pause.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaior.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaiorApertado.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fundos\garoto.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fundos\faseLegs.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fundos\faseTrunk.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Misc\quadroMensagem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino1sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino2sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino3sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino4sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino5sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino6sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Aminos\amino7sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fundos\faseArms.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fundos\faseHands.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fundos\faseHead.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fundos\faseEars.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Obstaculos\Radion.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Obstaculos\Parasita.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Obstaculos\Virus.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fundos\faseFeet.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\leftArm1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\leftEar1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\leftHand1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\mouth1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\nose1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\rightArm1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\rightEar1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\rightHand1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\trunk1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\head1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\leftLeg1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\rightLeg1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\leftFoot1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\rightFoot1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\eyes1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fundos\telaChangeState.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\eyes0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\head0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\leftArm0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\leftEar0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\leftFoot0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\leftHand0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\leftLeg0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\mouth0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\nose0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\rightArm0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\rightEar0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\rightFoot0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\rightHand0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\rightLeg0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Partes\trunk0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Misc\nuvem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Misc\quadro.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fontes\Fonte1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Fontes\Fonte2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somAmeba.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEnzima.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somMensagem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somParasita.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somRadion.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somVirus.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\obj\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\obj\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interferons\FeixeATP.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interferons\Imunizador.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interferons\Lisossomo.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interferons\Pilula.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interferons\Ressonante.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Misc\barraInterf.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto0.93\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Codons\codon7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\barraAmino.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Obstaculos\Ameba.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Obstaculos\Enzima.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\score.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenor.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMenorApertado.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\pause.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaior.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Buttons\buttonMaiorApertado.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\garoto.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseLegs.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseTrunk.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\quadroMensagem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino1sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino2sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino3sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino4sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino5sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino6sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Aminos\amino7sem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseArms.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseHands.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseHead.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseEars.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Obstaculos\Radion.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Obstaculos\Parasita.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Obstaculos\Virus.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\faseFeet.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftArm1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftEar1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftHand1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\mouth1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\nose1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightArm1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightEar1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightHand1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\trunk1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\head1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftLeg1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightLeg1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftFoot1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightFoot1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\eyes1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fundos\telaChangeState.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\eyes0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\head0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftArm0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftEar0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftFoot0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftHand0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\leftLeg0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\mouth0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\nose0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightArm0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightEar0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightFoot0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightHand0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\rightLeg0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Partes\trunk0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\nuvem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\quadro.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interferons\FeixeATP.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interferons\Imunizador.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interferons\Lisossomo.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interferons\Pilula.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interferons\Ressonante.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\barraInterf.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf0.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Interface\Misc\interf4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fontes\Fonte1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Fontes\Fonte2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somAmeba.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEnzima.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe1.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe2.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe3.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe4.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe5.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe6.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somEncaixe7.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somMensagem.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somParasita.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somRadion.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Efeitos Sonoros\somVirus.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Suspense.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Bolhas.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Tempestade.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Sineta.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\obj\x86\Debug\OGaroto.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\obj\x86\Debug\OGaroto.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\CustardPie.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\MobyDick.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Money.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\TheOcean.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\WholeLottaLove.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\CustardPie.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\MobyDick.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\Money.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\TheOcean.wma
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\OGaroto 1.0\OGaroto\bin\x86\Debug\Content\Sons\Musicas\WholeLottaLove.wma
